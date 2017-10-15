@@ -1,6 +1,7 @@
 #!/bin/sh
 
 dim INPT
+#コメントを追加
 
 echo "文字列を入力してください："
 read INPT
